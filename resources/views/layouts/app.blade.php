@@ -28,6 +28,7 @@
             @yield('content')
         </main>
         @include('inc/aside') 
+        @include('inc/footer')
         </div>
     
 </body>
